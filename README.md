@@ -1,1 +1,1 @@
-# Array-Its-Types-Its-Methods
+# Array-and-Its-Types-and-Its-Methods
